@@ -88,6 +88,6 @@ Whether you're dealing with corrupted ZIP files, incomplete downloads, CRC error
 ### Quick Start
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/chowdhuryvai/zip-rar-file-unzip-error-solve.git
-cd zip-rar-file-unzip-error-solve
-python zip-rar-file-unzip-error-solve.py
+git clone https://github.com/chowdhuryvai/archive_repair_pro.git
+cd archive_repair_pro
+python archive_repair_pro.py
